@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=eduardolimr&show_icons=true" alt="Github Stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolimr&layout=compact" alt="Github Lang Stats" height="165">
 
 <!--
 **Eduardolimr/Eduardolimr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
